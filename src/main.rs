@@ -1,3 +1,5 @@
+// AUTHOR: fsb3rke
+
 use std::{fs, io::Write};
 
 fn main() {
